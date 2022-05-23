@@ -14,7 +14,6 @@
 
 .transition-container.from-left {
   flex-direction: column;
- 
 }
  .transition-container.from-left span {
     background: rgb(240, 197, 7);
